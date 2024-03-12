@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A student interested in the field of data engineering.
 ------------------------------------------------------
 
-Graduated from Chiang Mai University with a major in Computer Engineering. Interested in working with data
+Graduated from Chiang Mai University with a major in Computer Engineering. 
 
 * 🌍  I'm based in Thailand Nakhonayok
 * ✉️  You can contact me at [phumiwit@gmail.com](mailto:phumiwit@gmail.com)
